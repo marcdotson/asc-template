@@ -15,8 +15,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - `/output` Output from model runs, not pushed.
 - `/presentations` Presentation slides.
 - `/private` A catch-all folder for miscellaneous files, not pushed.
-- `/venv` Project library.
 - `/writing` Case studies and the paper.
+- `.gitignore` Hidden Git instructions file.
+- `.venv` Hidden project library, not pushed.
 - `requirements.txt` Information on the reproducible environment.
 
 ## Reproducible Environment
